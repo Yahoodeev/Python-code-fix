@@ -1,0 +1,56 @@
+{
+  "Scoring Positions": [
+    "DEF",
+    "MID",
+    "FWD",
+    "RUC",
+    "UTIL"
+  ],
+  "Substitute Positions": [
+    "SUB DEF",
+    "SUB MID",
+    "SUB FWD",
+    "SUB RUC",
+    "SUB UTIL"
+  ],
+  "Rounds": 18,
+  "Emergencies": 4,
+  "Initial Salary Cap": 10000000,
+  "Trades": {
+    "Total": 37,
+    "Default": 2,
+    "Exceptions": {
+      "2": 5,
+      "9": 3,
+      "10": 3,
+      "11": 3,
+      "12": 3,
+      "14": 3,
+      "15": 3,
+      "16": 3
+    }
+  },
+  "Number Of Scoring Positions": {
+    "Default": 22,
+    "Exceptions": {
+      "3": 18,
+      "10": 18,
+      "11": 18,
+      "14": 18,
+      "15": 18,
+      "16": 18
+    }
+  },
+  "Capacities": {
+    "DEF": 6,
+    "SUB DEF": 2,
+    "MID": 8,
+    "SUB MID": 3,
+    "RUC": 2,
+    "SUB RUC": 1,
+    "FWD": 6,
+    "SUB FWD": 2,
+    "UTIL": 0,
+    "SUB UTIL": 0
+  }
+}
